@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'JetBrains Mono';
+    font-weight: 700;
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+    background-color: #08070B;
+    padding: 64px 16px 79px 16px;
+}
